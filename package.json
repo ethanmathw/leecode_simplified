@@ -1,0 +1,14 @@
+{
+  "name": "LeetCodeSimplified",
+  "version": "1.0.0",
+  "description": "LeetCode is Hard. Let's make it easy.",
+  "main": "index.js",
+  "repository": "https://github.com/ethanmathw/leecode_simplified.git",
+  "author": "ethanmathw <ethmth@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
